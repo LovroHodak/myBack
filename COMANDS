@@ -1,0 +1,14 @@
+1) TO RUN
+node index.js
+node test.js
+
+2) CONNECT TO GITHUB
+git init
+git add git commit -m "myBack first push"
+git branch -M main
+git remote add origin https://github.com/LovroHodak/myBack.git
+git push -u origin main
+
+3) 
+npm init --yes (CREATES PACKAGE.json)
+npm i (CREATES PACKAGE-LOCK.json)

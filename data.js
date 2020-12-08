@@ -1,3 +1,7 @@
+// NO use
+
+// DATA.js is used with TEST.js
+
 let students = [
     {
         name: 'Lovro',
@@ -28,9 +32,12 @@ let teachers = [
     }
 ]
 
-const printName
+const printName = () => {
+    console.log('PrintName function from data.js works', students, teachers)
+}
 
 
 //module.exports = students
-module.exports = { students, teachers}
+//module.exports = { students, teachers}
+module.exports = { students, teachers, printName }
 
