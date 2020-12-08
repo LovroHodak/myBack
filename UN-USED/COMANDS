@@ -16,9 +16,7 @@ npm i (CREATES PACKAGE-LOCK.json)
 
 4) 
 npm i express
-
 npm i -g nodemon
-
 npm i dotenv
-
 npm i hbs
+npm i mongoose

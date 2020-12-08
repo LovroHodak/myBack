@@ -1,5 +1,3 @@
-// NO use
-
 // DATA.js is used with TEST.js
 
 let students = [
