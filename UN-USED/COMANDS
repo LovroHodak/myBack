@@ -1,6 +1,7 @@
 1) TO RUN
 node index.js
 node test.js
+nodemon index.js
 
 2) CONNECT TO GITHUB
 git init
@@ -12,3 +13,9 @@ git push -u origin main
 3) 
 npm init --yes (CREATES PACKAGE.json)
 npm i (CREATES PACKAGE-LOCK.json)
+
+4) 
+npm i express
+
+npm i -g nodemon
+

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LovroHodak/myBack/issues"
   },
-  "homepage": "https://github.com/LovroHodak/myBack#readme"
+  "homepage": "https://github.com/LovroHodak/myBack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
